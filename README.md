@@ -1,5 +1,5 @@
 # parkingLot
-Parking Lot Design
+Parking Lot Design,
 Please checkout develop branch.
 To start this application follow these steps: 
 1: Pull code in your local machine from develop branch. 
